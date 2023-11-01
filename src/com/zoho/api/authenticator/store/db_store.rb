@@ -1,4 +1,4 @@
-require 'mysql2'
+# require 'mysql2'
 require_relative 'token_store'
 require_relative '../oauth_token'
 require_relative '../../../crm/api/util/constants'
